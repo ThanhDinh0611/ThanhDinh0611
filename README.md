@@ -2,8 +2,7 @@
 - 👀 I’m interested in exploring cutting edge technology
 - 🌱 I’m currently learning .NET Application development, IoT, blockchain and AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-  Email: dcthanh0611@gmail.com
+- 📫 How to reach me: dcthanh0611@gmail.com
 
 <!---
 ThanhDinh0611/ThanhDinh0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
